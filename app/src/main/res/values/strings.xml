@@ -1,0 +1,38 @@
+<resources>
+    <string name="RoR">2021_03_27</string>
+    <string name="registerConnStr">http://192.168.0.127:8081/register.php</string>
+    <string name="loginConnStr">http://192.168.0.127:8081/login.php</string>
+    <string name="home_b">主页</string>
+    <string name="read_b">阅读</string>
+    <string name="search_b">搜索</string>
+    <string name="recite_b">背诵</string>
+    <string name="mine_b">我的</string>
+
+    <string-array name="my_file">
+        <item>/RoRProjectFile</item>
+        <item>/RoRProjectFile/book</item>
+        <item>/RoRProjectFile/cache</item>
+        <item>/RoRProjectFile/recite</item>
+    </string-array>
+
+    <array name="tab_name">
+        <item>主页</item>
+        <item>阅读</item>
+        <item>搜索</item>
+        <item>背诵</item>
+        <item>我的</item>
+    </array>
+
+    <array name="tab_home_name">
+        <item>页面一</item>
+        <item>页面二</item>
+        <item>页面三</item>
+    </array>
+    <array name="tab_read_name">
+        <item>泛读区</item>
+        <item>精读区</item>
+        <item>本地书籍</item>
+    </array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
